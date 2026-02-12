@@ -31,10 +31,14 @@ Visualização clara da evolução financeira.
 ## 🖼️ Prévia do Simulador
 
 ### Distribuição da Carteira de FIIs
-![Distribuição da carteira](imagens/grafico-distribuicao.png)
+![Distribuição da carteira](imagens//grafico-distribuicao.png)
 
 ### Cenários Futuros e Dividendos
-![Cenários futuros](imagens/cenarios-futuros.png)
+![Cenários futuros](imagens//cenarios-futuros.png)
 
 ### Configurações e Investimento Mensal
-![Configurações do simulador](imagens/configuracoes-investimento.png)
+![Configurações do simulador](imagens//configuracoes-investimento.png)
+
+Este simulador foi estruturado para auxiliar no planejamento financeiro,
+permitindo simulações de crescimento patrimonial com base em aportes mensais,
+taxa de rendimento e perfil de investimento.
