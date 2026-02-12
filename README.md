@@ -27,3 +27,14 @@ Taxa de rendimento
 Período (meses/anos)
 Cálculo automático do patrimônio acumulado
 Visualização clara da evolução financeira.
+
+## 🖼️ Prévia do Simulador
+
+### Distribuição da Carteira de FIIs
+![Distribuição da carteira](imagens/grafico-distribuicao.png)
+
+### Cenários Futuros e Dividendos
+![Cenários futuros](imagens/cenarios-futuros.png)
+
+### Configurações e Investimento Mensal
+![Configurações do simulador](imagens/configuracoes-investimento.png)
