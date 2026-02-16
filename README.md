@@ -37,7 +37,7 @@ Visualização clara da evolução financeira.
 ![Cenários futuros](./simulador-patrimonio-excel/imagens/cenarios-futuros.png)
 
 ### Configurações e Investimento Mensal
-![Configurações do simulador](./imagens/configuracoes-investimento.png)
+![Configurações do simulador](./simulador-patrimonio-excel/imagens/configuracoes-investimento.png)
 
 Este simulador foi estruturado para auxiliar no planejamento financeiro,
 permitindo simulações de crescimento patrimonial com base em aportes mensais,
