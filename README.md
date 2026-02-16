@@ -31,7 +31,7 @@ Visualização clara da evolução financeira.
 ## 🖼️ Prévia do Simulador
 
 ### Distribuição da Carteira de FIIs
-![Distribuição da carteira](../imagens/grafico-distribuicao.png)
+![Distribuição da carteira](./simulador-patrimonio-excel/imagens/grafico-distribuicao.png)
 
 ### Cenários Futuros e Dividendos
 ![Cenários futuros](../imagens/cenarios-futuros.png)
