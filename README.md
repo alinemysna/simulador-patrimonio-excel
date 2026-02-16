@@ -34,7 +34,7 @@ Visualização clara da evolução financeira.
 ![Distribuição da carteira](./simulador-patrimonio-excel/imagens/grafico-distribuicao.png)
 
 ### Cenários Futuros e Dividendos
-![Cenários futuros](simulador-patrimonio-excel/imagens/cenarios-futuros.png)
+![Cenários futuros](simulador-patrimonio-excel/imagens/cenarios-futuros.png.png)
 
 ### Configurações e Investimento Mensal
 ![Configurações do simulador](../imagens/configuracoes-investimento.png)
